@@ -1,2 +1,0 @@
-*.bundle filter=lfs diff=lfs merge=lfs -text
-remotescenesgroup_scenes_all_b920a1a198b587db87e7c9a92519a399.bundle filter=lfs diff=lfs merge=lfs -text
